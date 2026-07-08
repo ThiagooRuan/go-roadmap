@@ -19,7 +19,7 @@ Instead of focusing only on building projects, this repository is intended to co
 - [x] Structs
 - [x] Methods
 - [x] Pointers
-- [ ] Maps
+- [x] Maps
 - [ ] Interfaces
 - [ ] Packages
 - [ ] Goroutines
